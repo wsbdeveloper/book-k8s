@@ -1,0 +1,11 @@
+{
+  "name": "simple-api",
+  "version": "1.0.0",
+  "description": "Simple api for k8s example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Wellington Bezerra",
+  "license": "ISC"
+}
